@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Text-Insight-Analyser** and **Bitcoin Wallets**
+- 🔭 I’m currently working on **MERN CHATBOT** and **Placement Cell**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently Building Projects using **React.js and Node.js**
 
 - 📫 How to reach me **virgarg772003@gmail.com**
 
