@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN CHATBOT** and **Placement Cell**
+- 🔭 Currently working on Upskilling Myself and Becoming the Best Version.
 
 - 🌱 I’m currently Building Projects using **React.js and Node.js**
 
